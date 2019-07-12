@@ -46,7 +46,7 @@
 		<dependency>
 			<groupId>com.cisco.collab.collab-metrics</groupId>
 			<artifactId>collab-metrics-statsd</artifactId>
-			<version>${collabMetricsVersion}</version>
+			
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
